@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sylvain yabre, a second year computer science student.
-- 👀 I’m interested in Software development
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning backend technologies
 - 💞️ I’m looking to collaborate on web and mobile apps
 - 📫 How to reach me sylvainyabre@yahoo.com

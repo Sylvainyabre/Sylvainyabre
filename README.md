@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sylvain Yabre, a third-year Computer Science student.
+- 👋 Hi, I’m Sylvain Yabre, a 4th-year Computer Science student.
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning microservices architecture and mobile development
 - 💞️ I’m looking to collaborate on web and mobile apps
